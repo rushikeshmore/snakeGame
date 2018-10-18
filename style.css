@@ -1,0 +1,17 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    position: fixed;
+  }
+
+  body {
+    background: #000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  canvas {
+    border: 8px solid white;
+    margin-left: 90px;
+    overflow: hidden;
+  }
